@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1663785717 source:c:\users\edo\desktop\snake\main.cpp
+	<deque>
+	<vector>
+	<cstdio>
+	<ctime>
+	<Windows.h>
+
